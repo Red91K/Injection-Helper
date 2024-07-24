@@ -1,4 +1,4 @@
-# Injection-Helper 2024
+# Injection-Helper
 
 ## Introduction
 Injection-Helper is a Python-based tool designed to streamline the process of crafting command injection payloads. It simplifies the task of embedding commands into a predefined command injection template.
