@@ -1,5 +1,5 @@
 {
-   "Injection-Template-String": "\"; msg[\"payload\"] = \"login [COMMAND_GOES_HERE]\"; \"a",
+   "Injection-Template-String": "<script>[COMMAND_GOES_HERE]</script>",
    "String-To-Replace": "[COMMAND_GOES_HERE]",
    "Paste-To-Clipboard": true
 }
