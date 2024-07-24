@@ -18,3 +18,8 @@ Crafting payloads for command injection attacks can be tedious and flat out anno
 
 
 ### Getting-Started
+```
+git clone https://github.com/Red91K/Injection-Helper.git
+cd Injection-Helper
+python3 main.py
+```
